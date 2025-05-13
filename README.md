@@ -17,6 +17,5 @@ Technologies Used
 - Socket.IO: A library that enables real-time, bidirectional, and event-based communication between web clients and servers.
 - Node.js & Express: A backend framework for building web applications and APIs in Node.js.
 - MongoDB: A NoSQL database for storing user data and chat messages.
-- Bootstrap: A front-end framework for developing responsive and mobile-first websites.
+- Tailwind CSS: A front-end CSS framework for developing responsive and mobile-first websites.
 - HTML: The standard markup language for creating web pages.
-
