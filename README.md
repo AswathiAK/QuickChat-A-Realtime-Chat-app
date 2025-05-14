@@ -18,3 +18,5 @@ Technologies Used
 - MongoDB: A NoSQL database for storing user data and chat messages.
 - Tailwind CSS: A front-end CSS framework for developing responsive and mobile-first websites.
 - HTML: The standard markup language for creating web pages.
+
+Visit at : https://quickchat-app-beta.vercel.app
